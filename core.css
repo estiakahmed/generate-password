@@ -1,0 +1,15 @@
+.aso{
+	font-size: 20px;
+	font-family: cursive;
+	font-weight: 500;
+	color: red;
+}
+input.form-control.btn.btn-block.btn-success.mt-4 {
+    background-color: orange;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 35px;
+    text-transform: uppercase;
+}
